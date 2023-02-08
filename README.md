@@ -1,6 +1,6 @@
 ## Olá! Sou o Cauã, técnico em Eletrônica, estudante de progrmação e entusiasta da tecnologia!
 
-<img src = "https://github-readme-stats.vercel.app/api?username=cauamp&show_icons=true&theme=dak">
+<img src = "https://github-readme-stats.vercel.app/api?username=cauamp&show_icons=true&theme=dark">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cauamp&show_icons=true&theme=dark">
 
 <div style="display: inline_block"><br>
