@@ -1,7 +1,7 @@
 ## Olá! Sou o Cauã, técnico em Eletrônica, estudante de progrmação e entusiasta da tecnologia!
 
 
-## 💻 
+## 💻: 
 <div style="display: inline_block; margin=50px"><br>
   <img align="center" alt="Caua-C" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
   <img align="center" alt="Caua-CSS" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
@@ -11,7 +11,7 @@
   
 </div>
 
-## 📊 GitHub Stats:
+## 📊:
 <div style="display:flex; align-items: center;">
   <a href="https://github.com/cauamp" >
     <img align="left" width = 48%  src = "https://github-readme-stats.vercel.app/api?username=cauamp&show_icons=true&theme=dracula">
