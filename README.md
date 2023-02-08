@@ -16,7 +16,7 @@
   <a href="https://github.com/cauamp" >
     <img align="left" width = 48%  src = "https://github-readme-stats.vercel.app/api?username=cauamp&show_icons=true&theme=dracula">
   </a>
-  <a href="https://github.com/cauamp" > 
-    <img align="right" width = 48%  src = "[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cauamp&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)">
-  </a>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cauamp&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 </div>
