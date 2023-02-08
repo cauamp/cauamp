@@ -7,7 +7,7 @@
 
   <img align="right" width = 480em  height=350em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cauamp&show_icons=true&theme=dark">
 </a>
-
+<br></br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Caua-C" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
   <img align="center" alt="Caua-CSS" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
