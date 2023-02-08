@@ -1,6 +1,6 @@
 ## Olá! Sou o Cauã, técnico em Eletrônica, estudante de progrmação e entusiasta da tecnologia!
 
-(https://github-readme-stats.vercel.app/api?username=cauamp)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=cauamp
 
 
 <div style="display: inline_block"><br>
