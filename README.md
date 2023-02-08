@@ -1,11 +1,11 @@
 ## Olá! Sou o Cauã, técnico em Eletrônica, estudante de progrmação e entusiasta da tecnologia!
 
 <a href="https://github.com/cauamp" >
-  <img align="left" width = 48% height=350em src = "https://github-readme-stats.vercel.app/api?username=cauamp&show_icons=true&theme=dark">
+  <img align="left" width = 30% height=350em src = "https://github-readme-stats.vercel.app/api?username=cauamp&show_icons=true&theme=dark">
 </a>
 <a href="https://github.com/cauamp" > 
 
-  <img align="right" width = 48%  height=350em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cauamp&show_icons=true&theme=dark">
+  <img align="right" width = 30%  height=350em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cauamp&show_icons=true&theme=dark">
 </a>
 <br></br>
 
