@@ -15,9 +15,9 @@
 <div style="display:flex; align-items: center;">
   <a href="https://github.com/cauamp" >
     <img align="left" max-width = 100%  src = "https://github-readme-stats.vercel.app/api?username=cauamp&show_icons=true&theme=dracula"><br/>
-  </a>
+
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cauamp&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauamp&theme=dracula)](https://github.com/cauamp/github-readme-stats)
-
+  </a>
 </div>
