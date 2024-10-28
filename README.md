@@ -21,9 +21,9 @@ I'm an Electronics Technician, a Computer Science student, and a technology enth
 |---------------|---------------|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cauamp&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauamp&theme=dracula)](https://github.com/cauamp/github-readme-stats) |
 
-## 🚀 Recent Projects
+## 🚀 Main Activity
 
-Currently, I'm improving my skills in data and working on a computer vision project that utilizes Deep Learning.
+I am currently enhancing my skills in AI by working on a computer vision project, ([Captar Libras](https://www.verlab.dcc.ufmg.br/captar-libras/)!) focused on training a deep learning model for translating sign language into text. This project aims to improve communication accessibility for the deaf and hard-of-hearing community.
 
 ### Technologies in Use:
 - **Deep Learning:** PyTorch
