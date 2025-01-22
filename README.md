@@ -19,7 +19,7 @@ I'm an Electronics Technician, a Computer Science student, and a technology enth
 
 | GitHub Streak | Top Languages |
 |---------------|---------------|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cauamp&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cauamp&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauamp&theme=dracula)](https://github.com/cauamp/github-readme-stats) |
 
 ## 🚀 Main Activity
 
